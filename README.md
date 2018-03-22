@@ -10,7 +10,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Representation Learning on Graphs: Methods and Applications.**
 *William L. Hamilton, Rex Ying, Jure Leskovec* 2017. [paper](https://arxiv.org/pdf/1709.05584.pdf)
 
-1. **Graph Embedding Techniques, Applications, and Performance: A Survey.** [reading]f
+1. **[READING] Graph Embedding Techniques, Applications, and Performance: A Survey.** 
 *Palash Goyal, Emilio Ferrara* 2017. [paper](https://arxiv.org/pdf/1705.02801.pdf)
 
 1. **A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications.**
